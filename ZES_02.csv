@@ -1,0 +1,199 @@
+Regione,Dimensione impresa,Tipologia Investimento,Valore
+Abruzzo,Micro,Numero comunicazioni inviate,64
+Abruzzo,Piccola,Numero comunicazioni inviate,149
+Abruzzo,Media,Numero comunicazioni inviate,71
+Abruzzo,Grande,Numero comunicazioni inviate,12
+Basilicata,Micro,Numero comunicazioni inviate,50
+Basilicata,Piccola,Numero comunicazioni inviate,114
+Basilicata,Media,Numero comunicazioni inviate,57
+Basilicata,Grande,Numero comunicazioni inviate,27
+Calabria,Micro,Numero comunicazioni inviate,205
+Calabria,Piccola,Numero comunicazioni inviate,340
+Calabria,Media,Numero comunicazioni inviate,91
+Calabria,Grande,Numero comunicazioni inviate,34
+Campania,Micro,Numero comunicazioni inviate,399
+Campania,Piccola,Numero comunicazioni inviate,1261
+Campania,Media,Numero comunicazioni inviate,503
+Campania,Grande,Numero comunicazioni inviate,204
+Molise,Micro,Numero comunicazioni inviate,27
+Molise,Piccola,Numero comunicazioni inviate,71
+Molise,Media,Numero comunicazioni inviate,37
+Molise,Grande,Numero comunicazioni inviate,9
+Puglia,Micro,Numero comunicazioni inviate,269
+Puglia,Piccola,Numero comunicazioni inviate,556
+Puglia,Media,Numero comunicazioni inviate,242
+Puglia,Grande,Numero comunicazioni inviate,145
+Sardegna,Micro,Numero comunicazioni inviate,132
+Sardegna,Piccola,Numero comunicazioni inviate,231
+Sardegna,Media,Numero comunicazioni inviate,91
+Sardegna,Grande,Numero comunicazioni inviate,56
+Sicilia,Micro,Numero comunicazioni inviate,436
+Sicilia,Piccola,Numero comunicazioni inviate,763
+Sicilia,Media,Numero comunicazioni inviate,268
+Sicilia,Grande,Numero comunicazioni inviate,115
+Totale,,Numero comunicazioni inviate,6885
+Abruzzo,Micro,Impianti,4824069
+Abruzzo,Piccola,Impianti,13737958
+Abruzzo,Media,Impianti,11330564
+Abruzzo,Grande,Impianti,8208972
+Basilicata,Micro,Impianti,1281873
+Basilicata,Piccola,Impianti,7401036
+Basilicata,Media,Impianti,13256396
+Basilicata,Grande,Impianti,12588527
+Calabria,Micro,Impianti,10837893
+Calabria,Piccola,Impianti,32861707
+Calabria,Media,Impianti,19168151
+Calabria,Grande,Impianti,17448368
+Campania,Micro,Impianti,70808808
+Campania,Piccola,Impianti,153745288
+Campania,Media,Impianti,127755421
+Campania,Grande,Impianti,99583630
+Molise,Micro,Impianti,2208923
+Molise,Piccola,Impianti,5539651
+Molise,Media,Impianti,3359717
+Molise,Grande,Impianti,5264084
+Puglia,Micro,Impianti,16131360
+Puglia,Piccola,Impianti,55057045
+Puglia,Media,Impianti,72284299
+Puglia,Grande,Impianti,62818009
+Sardegna,Micro,Impianti,7704410
+Sardegna,Piccola,Impianti,19799734
+Sardegna,Media,Impianti,18881272
+Sardegna,Grande,Impianti,41420682
+Sicilia,Micro,Impianti,31497217
+Sicilia,Piccola,Impianti,92493339
+Sicilia,Media,Impianti,49440167
+Sicilia,Grande,Impianti,105990218
+Totale,,Impianti,1194728788
+Abruzzo,Micro,Macchinari,13813077
+Abruzzo,Piccola,Macchinari,32238665
+Abruzzo,Media,Macchinari,32378339
+Abruzzo,Grande,Macchinari,5914726
+Basilicata,Micro,Macchinari,7558649
+Basilicata,Piccola,Macchinari,31407707
+Basilicata,Media,Macchinari,27522296
+Basilicata,Grande,Macchinari,9256212
+Calabria,Micro,Macchinari,27552042
+Calabria,Piccola,Macchinari,74738515
+Calabria,Media,Macchinari,31832721
+Calabria,Grande,Macchinari,90845426
+Campania,Micro,Macchinari,98262883
+Campania,Piccola,Macchinari,314539660
+Campania,Media,Macchinari,188759598
+Campania,Grande,Macchinari,102761018
+Molise,Micro,Macchinari,3250204
+Molise,Piccola,Macchinari,19948738
+Molise,Media,Macchinari,11885996
+Molise,Grande,Macchinari,299012
+Puglia,Micro,Macchinari,35612260
+Puglia,Piccola,Macchinari,135229053
+Puglia,Media,Macchinari,87056192
+Puglia,Grande,Macchinari,69246987
+Sardegna,Micro,Macchinari,18882619
+Sardegna,Piccola,Macchinari,38339881
+Sardegna,Media,Macchinari,29634316
+Sardegna,Grande,Macchinari,21594614
+Sicilia,Micro,Macchinari,61780662
+Sicilia,Piccola,Macchinari,144026473
+Sicilia,Media,Macchinari,119490394
+Sicilia,Grande,Macchinari,91346619
+Totale,,Macchinari,1977005554
+Abruzzo,Micro,Attrezzature,6275811
+Abruzzo,Piccola,Attrezzature,12176324
+Abruzzo,Media,Attrezzature,8709971
+Abruzzo,Grande,Attrezzature,2340122
+Basilicata,Micro,Attrezzature,4931969
+Basilicata,Piccola,Attrezzature,12825934
+Basilicata,Media,Attrezzature,10576038
+Basilicata,Grande,Attrezzature,22295347
+Calabria,Micro,Attrezzature,16592963
+Calabria,Piccola,Attrezzature,49084514
+Calabria,Media,Attrezzature,23983796
+Calabria,Grande,Attrezzature,12239318
+Campania,Micro,Attrezzature,80846032
+Campania,Piccola,Attrezzature,208497554
+Campania,Media,Attrezzature,126627641
+Campania,Grande,Attrezzature,73969389
+Molise,Micro,Attrezzature,1706770
+Molise,Piccola,Attrezzature,9354520
+Molise,Media,Attrezzature,8605762
+Molise,Grande,Attrezzature,5132841
+Puglia,Micro,Attrezzature,27206750
+Puglia,Piccola,Attrezzature,83086172
+Puglia,Media,Attrezzature,56222257
+Puglia,Grande,Attrezzature,53926806
+Sardegna,Micro,Attrezzature,11475832
+Sardegna,Piccola,Attrezzature,27804694
+Sardegna,Media,Attrezzature,29675315
+Sardegna,Grande,Attrezzature,23849869
+Sicilia,Micro,Attrezzature,52075515
+Sicilia,Piccola,Attrezzature,99351570
+Sicilia,Media,Attrezzature,62849530
+Sicilia,Grande,Attrezzature,39441038
+Totale,,Attrezzature,1263737964
+Abruzzo,Micro,Immobili,8627056
+Abruzzo,Piccola,Immobili,9502548
+Abruzzo,Media,Immobili,6606356
+Abruzzo,Grande,Immobili,2471920
+Basilicata,Micro,Immobili,3253272
+Basilicata,Piccola,Immobili,9693745
+Basilicata,Media,Immobili,7180663
+Basilicata,Grande,Immobili,2072102
+Calabria,Micro,Immobili,9397437
+Calabria,Piccola,Immobili,35856301
+Calabria,Media,Immobili,16533521
+Calabria,Grande,Immobili,6794352
+Campania,Micro,Immobili,43825336
+Campania,Piccola,Immobili,123935539
+Campania,Media,Immobili,79880361
+Campania,Grande,Immobili,54738828
+Molise,Micro,Immobili,1947484
+Molise,Piccola,Immobili,5107287
+Molise,Media,Immobili,2382185
+Molise,Grande,Immobili,2365217
+Puglia,Micro,Immobili,14382771
+Puglia,Piccola,Immobili,41823334
+Puglia,Media,Immobili,25246933
+Puglia,Grande,Immobili,19553784
+Sardegna,Micro,Immobili,9227261
+Sardegna,Piccola,Immobili,16879025
+Sardegna,Media,Immobili,15607953
+Sardegna,Grande,Immobili,12905493
+Sicilia,Micro,Immobili,21487510
+Sicilia,Piccola,Immobili,67215723
+Sicilia,Media,Immobili,33680382
+Sicilia,Grande,Immobili,16253843
+Totale,,Immobili,726435522
+Abruzzo,Micro,Credito richiesto,11101314
+Abruzzo,Piccola,Credito richiesto,22422935
+Abruzzo,Media,Credito richiesto,14590502
+Abruzzo,Grande,Credito richiesto,2840361
+Basilicata,Micro,Credito richiesto,8249995
+Basilicata,Piccola,Credito richiesto,30400669
+Basilicata,Media,Credito richiesto,22723404
+Basilicata,Grande,Credito richiesto,13863658
+Calabria,Micro,Credito richiesto,37538260
+Calabria,Piccola,Credito richiesto,111749244
+Calabria,Media,Credito richiesto,44720019
+Calabria,Grande,Credito richiesto,46930985
+Campania,Micro,Credito richiesto,155605533
+Campania,Piccola,Credito richiesto,458309850
+Campania,Media,Credito richiesto,258673204
+Campania,Grande,Credito richiesto,132421130
+Molise,Micro,Credito richiesto,4459284
+Molise,Piccola,Credito richiesto,19356311
+Molise,Media,Credito richiesto,10236963
+Molise,Grande,Credito richiesto,3918346
+Puglia,Micro,Credito richiesto,53381994
+Puglia,Piccola,Credito richiesto,187638512
+Puglia,Media,Credito richiesto,121245732
+Puglia,Grande,Credito richiesto,85398499
+Sardegna,Micro,Credito richiesto,23470464
+Sardegna,Piccola,Credito richiesto,50783635
+Sardegna,Media,Credito richiesto,37635208
+Sardegna,Grande,Credito richiesto,29698896
+Sicilia,Micro,Credito richiesto,98118926
+Sicilia,Piccola,Credito richiesto,236701075
+Sicilia,Media,Credito richiesto,131173061
+Sicilia,Grande,Credito richiesto,101176278
+Totale,,Credito richiesto,2551290705
